@@ -1,0 +1,1981 @@
+Company Name,Rating,Reviews,Salaries,Interviews,Jobs,Industry,Primary_City,Num_Other_Locations
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
+TCS,3.6,98700.0,919999.9999999999,11100.0,244.0,IT Services & Consulting,Bengaluru,413
+Accenture,3.7,63600.0,610000.0,8700.0,12500.0,IT Services & Consulting,Bengaluru,228
+Wipro,3.7,57500.0,459999.99999999994,6100.0,4900.0,IT Services & Consulting,Bengaluru,357
+Cognizant,3.7,54700.0,590000.0,5900.0,428.0,IT Services & Consulting,Hyderabad / Secunderabad,212
+Capgemini,3.7,46300.0,459999.99999999994,5100.0,1700.0,IT Services & Consulting,Bengaluru,175
+HDFC Bank,3.9,43800.0,140000.0,2500.0,175.0,Banking,Mumbai,1708
+Infosys,3.6,43100.0,500000.0,7900.0,2300.0,IT Services & Consulting,Bengaluru,229
+ICICI Bank,4.0,42100.0,150000.0,2600.0,36.0,Banking,Mumbai,1396
+HCLTech,3.5,39800.0,350000.0,4100.0,402.0,IT Services & Consulting,Chennai,216
+Tech Mahindra,3.5,38300.0,270000.0,4100.0,423.0,IT Services & Consulting,Hyderabad / Secunderabad,320
+Genpact,3.7,36000.0,220000.00000000003,3400.0,395.0,IT Services & Consulting,Hyderabad / Secunderabad,161
+Teleperformance,3.9,32600.0,92600.0,2000.0,359.0,BPO,Mumbai,244
+Concentrix Corporation,3.7,28600.0,120000.0,1800.0,159.0,BPO,Bengaluru,167
+Axis Bank,3.7,28400.0,100000.0,1700.0,979.0,Banking,Mumbai,1433
+Amazon,4.0,27400.0,130000.0,5400.0,3000.0,Internet,Bengaluru,498
+Jio,4.1,25800.0,61400.0,2200.0,170.0,Telecom,Mumbai,1484
+iEnergizer,4.7,24900.0,22900.0,784.0,89.0,BPO,Noida,45
+Reliance Retail,3.9,24200.0,67200.0,1700.0,113.0,Retail,Mumbai,1100
+IBM,4.0,23600.0,210000.0,2500.0,2400.0,IT Services & Consulting,Bengaluru,158
+LTIMindtree,3.7,22800.0,180000.0,3000.0,372.0,IT Services & Consulting,Bengaluru,135
